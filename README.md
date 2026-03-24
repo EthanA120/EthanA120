@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Ethan
-- 👀 I’m interested in almost everything and I'm a mechanical engineer with a passion to code
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing right now I guess
-- 📫 Reach me at the mail (EthanA120@Gmail.com)
+Full Stack Web Developer | B.Sc. Mechanical Engineering
 
-<!---
-EthanA120/EthanA120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Full Stack Developer with a background in Mechanical Engineering, bringing a unique blend of analytical problem-solving and modern web technologies. I specialize in building robust applications using the PERN Stack (PostgreSQL, Express, React, Node.js) and Python.
+
+-  🔭 Currently: Building internal tools and full-stack projects.
+
+-  🛠️ Tech Stack: JavaScript (ES6+), React, Node.js, Python, PostgreSQL, and Git.
+
+-  ⚙️ Background: 3 years of experience in engineering, now applying those systems-thinking skills to scalable software solutions.
